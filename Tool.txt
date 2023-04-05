@@ -1,0 +1,5 @@
+WebMail Checker
+This tool will check your webmail list from a list.txt. it will check if the webmail is accessible or not. And if it's accessible that it will save in live.txt and if it's not accessible then it will go Dead.txt
+if you wanna buy this tool contact me via Telegram @alexrony21
+
+Time waster direct block
